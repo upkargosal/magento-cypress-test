@@ -1,0 +1,8 @@
+{
+  "name": "Barney",
+  "lastname":"Potter",
+  "email": "Barney121@yopmail.com",
+  "password":"Abc@123456",
+  "invalid_email":"abc1",
+  "invalid_password":"121"
+}
